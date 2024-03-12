@@ -52,5 +52,5 @@
         "Temp/": true
     },
     "dotnet.preferCSharpExtension": true,
-    "dotnet.defaultSolution": "Workshop - IndianaJones - Groupe 2.sln"
+    "dotnet.defaultSolution": "IndianaJones-G2-UnityProject.sln"
 }
